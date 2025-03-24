@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "33d20dc4177978d411eaae3dd44ce65f"
-application_url = "https://556d-2401-4900-1c1a-3254-c105-5b16-a84c-1e6e.ngrok-free.app"
+application_url = "https://01a3-2409-40d4-12f-a0c6-dd8-db32-92dc-9a78.ngrok-free.app"
 embedded = true
 name = "test-tailwind-app"
 handle = "test-tailwind-app"
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://556d-2401-4900-1c1a-3254-c105-5b16-a84c-1e6e.ngrok-free.app/auth/callback",
-  "https://556d-2401-4900-1c1a-3254-c105-5b16-a84c-1e6e.ngrok-free.app/auth/shopify/callback",
-  "https://556d-2401-4900-1c1a-3254-c105-5b16-a84c-1e6e.ngrok-free.app/api/auth/callback"
+  "https://01a3-2409-40d4-12f-a0c6-dd8-db32-92dc-9a78.ngrok-free.app/auth/callback",
+  "https://01a3-2409-40d4-12f-a0c6-dd8-db32-92dc-9a78.ngrok-free.app/auth/shopify/callback",
+  "https://01a3-2409-40d4-12f-a0c6-dd8-db32-92dc-9a78.ngrok-free.app/api/auth/callback"
 ]
 
 [pos]
